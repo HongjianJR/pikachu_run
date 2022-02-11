@@ -6,5 +6,3 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 
 [go and enjoy! :smile: ](https://hongjianjr.github.io/pikachu_run/)
-
-![chrome offline game cast](assets/screenshot.gif)
